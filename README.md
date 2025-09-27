@@ -1,6 +1,18 @@
 # 💫 About Me:
 Hello! I am a computer science major, specializing in game development and UI/UX design. I also produce digital artwork/assets. For now I am focused on learning how to utilize MediaPipe in TouchDesigner to create particle displacement effects via motion tracking. 
 
+## Resume:
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url= file:///Users/mishka/Desktop/Mishka's%20Resume.docx.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mishka.khalil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khalil.mansukhani@gmail.com) 
